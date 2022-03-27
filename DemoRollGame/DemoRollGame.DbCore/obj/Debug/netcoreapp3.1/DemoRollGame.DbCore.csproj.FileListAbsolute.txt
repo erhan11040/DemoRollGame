@@ -1,0 +1,13 @@
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\bin\Debug\netcoreapp3.1\DemoRollGame.DbCore.deps.json
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\bin\Debug\netcoreapp3.1\DemoRollGame.DbCore.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\bin\Debug\netcoreapp3.1\DemoRollGame.DbCore.pdb
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\bin\Debug\netcoreapp3.1\DemoRollGame.Models.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\bin\Debug\netcoreapp3.1\DemoRollGame.Models.pdb
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.csproj.AssemblyReference.cache
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.AssemblyInfoInputs.cache
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.AssemblyInfo.cs
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.csproj.CoreCompileInputs.cache
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.csproj.CopyComplete
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.DbCore\obj\Debug\netcoreapp3.1\DemoRollGame.DbCore.pdb

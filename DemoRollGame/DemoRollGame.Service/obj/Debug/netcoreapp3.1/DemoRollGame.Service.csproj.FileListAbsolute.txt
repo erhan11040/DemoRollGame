@@ -1,0 +1,15 @@
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.Service.deps.json
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.Service.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.Service.pdb
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.DbCore.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.Models.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.DbCore.pdb
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\bin\Debug\netcoreapp3.1\DemoRollGame.Models.pdb
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.csproj.AssemblyReference.cache
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.AssemblyInfoInputs.cache
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.AssemblyInfo.cs
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.csproj.CoreCompileInputs.cache
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.csproj.CopyComplete
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.dll
+C:\Development\LocalPlayGround\DemoRollGame\DemoRollGame\DemoRollGame.Service\obj\Debug\netcoreapp3.1\DemoRollGame.Service.pdb
